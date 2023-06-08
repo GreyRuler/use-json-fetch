@@ -3,8 +3,8 @@ import './assets/css/google-icons.css'
 
 function App() {
 	return (
-		<div className='app'></div>
-	);
+		<div></div>
+	)
 }
 
 export default App;
